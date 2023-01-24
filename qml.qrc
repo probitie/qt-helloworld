@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>darkowl-blue-earth.svg</file>
+    </qresource>
+</RCC>
